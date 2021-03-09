@@ -1,0 +1,3 @@
+[submodule "EternalPatchManifestRust"]
+	path = EternalPatchManifestRust
+	url = https://github.com/PowerBall253/EternalPatchManifestRust.git

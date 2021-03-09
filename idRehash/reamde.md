@@ -1,0 +1,2 @@
+idRehash converted to Rust
+
